@@ -28,7 +28,7 @@ This app, its topics and more web-technologies are explained in this highly-rate
    https://github.com/abdullah-mohamed/patatap-clone2<br>
  In this app, I used jquery, nodejs as server, simple css and js libraries:<br>
   - Howlerjs for sounds.
-  - paperjs for animations.<br>
+  - paperjs for animations.<br><br>
  This is the original app:<br>
    https://patatap.com/<br>
  This app, its topics and more web-technologies are explained in this highly-rated 43-hour udemy course which I finished:<br>
