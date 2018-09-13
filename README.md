@@ -5,13 +5,13 @@ This file contains 3 web application, 1 C arduino embedded app, 2 console games 
 1-<br>
  A relativily complex camp reservation Web application:<br>
    https://github.com/abdullah-mohamed/yelpcampApp<br>
- In this app, I followed REST convention for routes and nested routes, used nodejs as server, mongoDB as database, Express as framework,  bootstrap for styling(Although I inserted many inline-styling, simple MV(model-view) structure, many js-libraries:<br>
+ In this app, I followed REST convention for routes and nested routes, used nodejs as server, mongoDB as database, Express as framework,  bootstrap for styling(Although I inserted many inline-styling), simple MV(model-view) structure, many js-libraries:<br>
   - 'passportjs' for userAuthentication, hashing,.. .
   - 'express-session' for user sessions.
   - 'express-sanitizer' for i/p sanitizing.
   - 'connect-flash' for flash messages.
   - 'method-override' for handling PUT & DELETE requests.
-  - 'body-parser' for embedding form information into request objects.
+  - 'body-parser' for embedding form information into request objects.<br>
 This app, its topics and more web-technologies are explained in this highly-rated 43-hour udemy course which I finished:<br>
   https://www.udemy.com/the-web-developer-bootcamp/<br><br>
  
