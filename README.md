@@ -5,14 +5,14 @@ This file contains 4 web application, 1 C arduino embedded app, 2 console games 
 <em>Names :</em><br>
 1- camp app. <br>
 2- budget app. <br>
-2- blog app. <br>
-3- patatap. <br>
-4- chess app. <br>
-5- tic-tac-toe. <br>
-6- sudoku. <br>
-7- weather app. <br>
-8- dashboard app. <br>
-9- CRUD app. <br>
+3- blog app. <br>
+4- patatap. <br>
+5- chess app. <br>
+6- tic-tac-toe. <br>
+7- sudoku. <br>
+8- weather app. <br>
+9- dashboard app. <br>
+10- CRUD app. <br>
 
 1-<br>
  A relativily complex camp reservation Web application:<br>
@@ -26,8 +26,15 @@ This file contains 4 web application, 1 C arduino embedded app, 2 console games 
   - 'body-parser' for embedding form information into request objects.<br>
 This app, its topics and more web-technologies are explained in this highly-rated 43-hour udemy course which I finished:<br>
   https://www.udemy.com/the-web-developer-bootcamp/<br><br>
+  
+2- <br>
+ A budget app using vanilla JS: <br>
+    https://github.com/abdullah-mohamed/budgetApp.git
+It's a quite simple app but the architechture is beautiful -at least for me-, as I used the module pattern for the first time.
+This app, its topics are explained in this highly-rated 27-hour udemy course which I finished: <br>
+   https://www.udemy.com/the-complete-javascript-course/
  
-2-<br>
+3-<br>
  A simple blog App:<br>
    https://github.com/abdullah-mohamed/blogapp<br>
  In this app, I followed REST convention, used nodejs as server, mongoDB as database, Express as framework, SemanticUI for styling.<br>
@@ -35,7 +42,7 @@ This app, its topics and more web-technologies are explained in this highly-rate
    https://www.udemy.com/the-web-developer-bootcamp/<br><br>
  
  
-3-<br>
+4-<br>
   A fun patatap clone:<br>
    https://github.com/abdullah-mohamed/patatap-clone2<br>
  In this app, I used jquery, nodejs as server, simple css and js libraries:<br>
@@ -47,7 +54,7 @@ This app, its topics and more web-technologies are explained in this highly-rate
    https://www.udemy.com/the-web-developer-bootcamp/<br><br>
 
 
-4-<br>
+5-<br>
   A relativily complex arduino chess board:<br>
    https://github.com/abdullah-mohamed/chess_arduino_mega<br>
  In this app, I used C language to program an arduino-mega to detect physical movements on a board using sensors and then send these  data to an arduino-uno which calculates the possible <bold> Correct </bold> moves for the moved piece and show them to the player using LEDs.<br>
@@ -55,26 +62,26 @@ This app, its topics and more web-technologies are explained in this highly-rate
  This app, its topics and logic are all self-learn acquired. It was a science project that I made in college but unfortunately I never finished.<br><br>
  
  
-5-<br>
+6-<br>
  A tic-tac-toe console game:<br>
    https://github.com/abdullah-mohamed/Tic-Tac-Toe<br>
  In this app, I used C language to create a Correct-logic for a Tic-Tac-Toe game.<br>
  This app, its topics and logic are all self-learn acquired. I made it for fun. I always enjoyed building logic for games.<br><br>
  
  
-6-<br>
+7-<br>
  A sudoku simple solver:<br>
    https://github.com/abdullah-mohamed/sudoku<br>
  In this app, I used C# language to create a Correct-logic application to solve any midlevel sudoku game.<br>
  <strong>This app is really one of my all time favs as I am a huge sudoku fan and player.</strong>
  This app, its topics and logic are all self-learn acquired.<br><br>
 
- 7-<br>
+ 8-<br>
    A weather statistics app:<br>
      https://github.com/abdullah-mohamed/weather-statistics<br>
   In this app, I used pyhton heavily, used many libraries to calculate the mean, and other values for a set of data between 2 user-provided periods of time, The data is supposed to be fetched from the web but I accessed it locally and used <strong>MySQL</strong> for a database.<br><br>
  
- 8-<br>
+ 9-<br>
    A simple car speed dashboard app:<br>
      https://github.com/abdullah-mohamed/car-dashboard<br>
   In this app, I used python to imitate the behavior of car dashboard, this is supposed to run on a rasberry pi board connected on an electric car. <br>
@@ -82,7 +89,7 @@ This app, its topics and more web-technologies are explained in this highly-rate
  But I first learnt bython following this path:<br>
    https://www.lynda.com/learning-paths/Developer/become-a-python-developer<br><br>
    
- 9-<br>
+ 10-<br>
   A simple CRUD console application:<br>
     https://github.com/abdullah-mohamed/CRUD-app<br>
  In this app, I used python to imitate the CRUD DB utilities on making files.<br>
