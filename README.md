@@ -1,6 +1,6 @@
 # cv
 A detailed map into my repositories for my CV<br>
-This file contains 4 web application, 1 C arduino embedded app, 2 console games and 3 python desktop apps.<br><br>
+This file contains 4 web application, 1 C arduino embedded app, 2 console games and 3 python desktop apps.<br>
 
 <em>Names :</em><br>
 1- camp app. <br>
