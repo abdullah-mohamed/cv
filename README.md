@@ -1,6 +1,18 @@
 # cv
 A detailed map into my repositories for my CV<br>
-This file contains 3 web application, 1 C arduino embedded app, 2 console games and 3 python desktop apps.<br><br>
+This file contains 4 web application, 1 C arduino embedded app, 2 console games and 3 python desktop apps.<br><br>
+
+<em>Names :</em><br>
+1- camp app. <br>
+2- budget app. <br>
+2- blog app. <br>
+3- patatap. <br>
+4- chess app. <br>
+5- tic-tac-toe. <br>
+6- sudoku. <br>
+7- weather app. <br>
+8- dashboard app. <br>
+9- CRUD app. <br>
 
 1-<br>
  A relativily complex camp reservation Web application:<br>
